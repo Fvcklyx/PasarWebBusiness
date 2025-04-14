@@ -268,7 +268,7 @@ section .header {
 }
 
 .pricing .card p {
-  display: flex;
+  color: #fff;
   margin-bottom: 0.75rem;
 }
 
