@@ -267,12 +267,12 @@ section .header {
   border-bottom: 2px dashed #fff;
 }
 
-.pricing .card div {
+.pricing .card .paket {
   color: #fff;
   margin-bottom: 0.75rem;
 }
 
-.pricing .card div i {
+.pricing .card .paket i {
   color: #ccc;
   font-size: 1.2rem;
   margin-right: 0.3rem;
