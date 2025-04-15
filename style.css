@@ -282,6 +282,7 @@ section .header {
   color: #ccc;
   margin-top: 1rem;
   font-size: 0.9rem;
+  font-style: italic;
 }
 
 .pricing .card button {
