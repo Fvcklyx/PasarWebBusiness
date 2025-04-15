@@ -278,6 +278,12 @@ section .header {
   margin-right: 0.3rem;
 }
 
+.pricing .card .tnc {
+  color: #ccc;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
 .pricing .card button {
   color: #fff;
   background-color: transparent;
