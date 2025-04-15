@@ -148,7 +148,7 @@ header .content p {
 
 .contact .card .content {
   flex: 1;
-  margin-bottom: 3rem;
+  margin-bottom: 5rem;
 }
 
 .contact .card h4 {
@@ -285,9 +285,6 @@ footer .column > a:hover {
 }
 
 @media (width < 600px) {
-  header .image::before {
-    display: none;
-  }
   .features {
     grid-template-columns: repeat(1, 1fr);
   }
