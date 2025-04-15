@@ -118,9 +118,10 @@ header .content h1 span {
 }
 
 header .content p {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   color: #ccc;
   font-style: italic;
+  text-align: center;
 }
 
 .contact {
